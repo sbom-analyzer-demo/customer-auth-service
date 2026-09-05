@@ -4,7 +4,7 @@
   "description": "Customer login, session and token issuance",
   "private": true,
   "dependencies": {
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "cross-spawn": "7.0.3"
   }
 }
