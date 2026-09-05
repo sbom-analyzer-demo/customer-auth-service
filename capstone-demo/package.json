@@ -1,0 +1,10 @@
+{
+  "name": "customer-auth-service",
+  "version": "1.0.0",
+  "description": "Customer login, session and token issuance",
+  "private": true,
+  "dependencies": {
+    "jsonwebtoken": "8.5.1",
+    "cross-spawn": "7.0.3"
+  }
+}
